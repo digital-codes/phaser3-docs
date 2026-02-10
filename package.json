@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/photonstorm/phaser3-docs#readme",
   "devDependencies": {
-    "better-sqlite3": "^5.4.0",
+    "better-sqlite3": "^12.6.2",
     "directory-tree": "^2.2.4",
     "doctrine": "^3.0.0",
     "dts-dom": "^3.5.0",
@@ -42,7 +42,7 @@
     "jsdoc-json": "^2.0.2",
     "jsdoc-to-markdown": "^5.0.3",
     "json-beautify": "^1.1.1",
-    "node-gyp": "^6.0.1",
+    "node-gyp": "^12.2.0",
     "path": "^0.12.7",
     "sql.js": "^1.0.1",
     "string-occurrence": "^1.2.0",
